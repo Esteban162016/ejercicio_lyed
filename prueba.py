@@ -4,7 +4,7 @@ contador_item = 0
 cant_total = 0
 precio_total_item = 0
 precio_total_pres = 0
-while contador_item <=3:
+while contador_item <=2:
         
         detalle = input('ingrese detalle: ')
         if not detalle:
